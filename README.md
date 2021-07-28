@@ -7,12 +7,14 @@
 * 创建项目还是建议使用[Cookiecutter](https://github.com/AngusWG/cookiecutter-py-package)
 * 有建议请直接私聊我~
 
+## Usage
+
 ```bash
-pip install -e . 
+pip install -e . # pip install git+https://github.com/AngusWG/WG-Public.git
 wg -- --help
 wg date
 ```
 
-Features
---------
+## Features
+
 * TODO
